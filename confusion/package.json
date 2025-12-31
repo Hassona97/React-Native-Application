@@ -13,7 +13,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/stack": "^5.9.0",
     "expo": "^38.0.9",
-    "expo-cli": "^3.24.0",
+    "expo-cli": "^6.3.12",
     "expo-image-manipulator": "~8.2.1",
     "expo-image-picker": "~8.3.0",
     "expo-mail-composer": "~8.2.1",
@@ -51,7 +51,7 @@
   "devDependencies": {
     "@babel/core": "~7.9.0",
     "babel-jest": "~25.2.6",
-    "jest": "~25.2.6",
+    "jest": "~30.2.0",
     "react-test-renderer": "~16.11.0"
   },
   "jest": {
